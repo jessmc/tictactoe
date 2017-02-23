@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "",
-"sources": [],
-"names": [],
-"file": "style.css"
-}
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["h1 {\n\tcolor: red;\n\tfont-size: 50pt; \n\tfont-family: Helvetica;\n}"],"names":[],"mappings":"AAAA,AAAA,EAAE,CAAC;EACF,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,SAAS,GACtB"}
